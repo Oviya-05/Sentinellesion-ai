@@ -20,4 +20,4 @@ The Convolutional Neural Network (CNN) architecture used for this project consis
 ## Deployment
 <img width="1273" height="665" alt="image" src="https://github.com/user-attachments/assets/e0cbf1e9-0efe-46d8-b9e4-4225ea04871e" />
 <img width="1299" height="698" alt="image" src="https://github.com/user-attachments/assets/00a1c3df-06d7-4235-a531-9700b125683c" />
-
+Link-https://sentinellesionai.lovable.app/
